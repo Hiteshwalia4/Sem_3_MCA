@@ -34,6 +34,7 @@ This elasticity allows users to handle traffic spikes, ensuring performance and 
 
 Q3.What are the application areas of Cloud Computing? Explain at least 4.
 Ans. Cloud service providers provide various applications in the field of art, business, data storage and backup services, education, entertainment, management, social networking, etc.
+
 1. Art Applications
 Cloud computing offers various art applications for quickly and easily design attractive cards, booklets, and images. Some most commonly used cloud art applications are given below:
 i) Moo
@@ -42,7 +43,8 @@ ii) Vistaprint
 Vistaprint allows us to easily design various printed marketing products such as business cards, Postcards, Booklets, and wedding invitations cards.
 
 2. Business Applications
-Business applications are based on cloud service providers. Today, every organization requires the cloud business application to grow their business. It also ensures that business applications are 24*7 available to users.
+Business applications are based on cloud service providers. Today, every organization requires the cloud business application to
+grow their business. It also ensures that business applications are 24*7 available to users.
 There are the following business applications of cloud computing -
 i. MailChimp
 MailChimp is an email publishing platform which provides various options to design, send, and save templates for emails.
@@ -61,22 +63,25 @@ Google Apps for Education is the most widely used platform for free web-based em
 ii. Chromebooks for Education
 Chromebook for Education is one of the most important Google's projects. It is designed for the purpose that it enhances education innovation.
 
+
 Q4.What are different service models ?Differentiate all with Examples.
 Ans. Cloud computing offers three primary service models, each catering to different levels of control and management over the computing resources. These service models are:
+
 Infrastructure as a Service (IaaS):IaaS provides virtualized computing resources over the internet. It includes infrastructure components such as virtual machines, storage, and networking, allowing users to manage and control the underlying infrastructure while abstracting the hardware.
-
-
 Examples:
 ●	Amazon Web Services (AWS) EC2: AWS offers virtual machines on-demand, giving users control over the operating system, applications, and network configurations.
 ●	Microsoft Azure Virtual Machines: Azure provides scalable and customizable virtual machines that users can configure and manage as needed.
+
 Platform as a Service (PaaS): PaaS delivers a platform that includes tools and services for application development, deployment, and management. It abstracts the underlying infrastructure, allowing developers to focus on coding and application logic.
 Examples:
 ●	Google App Engine: Google's PaaS offering enables developers to build and deploy web applications without managing underlying infrastructure. 
 ●	Heroku: Heroku is a cloud platform that simplifies application deployment by providing a fully managed runtime environment for various programming languages.
+
 Software as a Service (SaaS): SaaS delivers complete software applications over the internet on a subscription basis. Users can access these applications via a web browser, eliminating the need for local installation and maintenance.
 Examples:
 ●	Salesforce: Salesforce offers a SaaS solution for customer relationship management (CRM) that allows organizations to manage sales, customer service, and marketing activities.
 ●	Microsoft 365 (formerly Office 365): Microsoft 365 provides a suite of productivity applications, including Word, Excel, and Outlook, delivered as a SaaS offering for businesses and individuals.
+
 
 Q5.Define deployment models with examples ? 
 Ans. Cloud computing deployment models describe how cloud resources and infrastructure are hosted and made available to users or organizations.
@@ -87,14 +92,12 @@ Examples:
 ●	Amazon Web Services (AWS): AWS is one of the largest and most well-known public cloud providers, offering a wide range of services, including computing, storage, databases, and more.
 ●	Microsoft Azure: Microsoft Azure provides a comprehensive suite of cloud services, including virtual machines, AI and machine learning, and IoT solutions.
 
-
 Private Cloud:
 A private cloud is dedicated to a single organization or entity, and it may be hosted on-premises or by a third-party provider. It offers greater control and customization compared to public cloud models.
 
 Examples:
 ●	On-Premises Private Cloud: An organization sets up its own data center infrastructure with cloud-like capabilities, managing it internally for enhanced control and security.
 ●	IBM Cloud Private: IBM offers a private cloud solution that can be deployed on a client's infrastructure or on IBM's cloud infrastructure for added flexibility.
-
 
 Hybrid Cloud:
 Hybrid cloud combines elements of both public and private clouds, allowing data and applications to move seamlessly between them. It offers greater flexibility and scalability.
@@ -103,12 +106,11 @@ Examples:
 ●	AWS Outposts: AWS Outposts allows organizations to run AWS infrastructure on-premises or in a co-location facility, enabling a consistent hybrid cloud experience.
 ●	Google Cloud Anthos: Google Cloud Anthos provides a hybrid and multi-cloud platform that allows applications to run on various cloud providers or on-premises infrastructure.
 
+
 Q6.What do you mean by Cloud Computing Architecture?Use graphical representation in your answer. 
-Ans. Cloud computing architecture refers to the structural framework of a cloud computing system, including the components, layers, and relationships among them. It outlines how various elements such as hardware,software, networking, and services interact to deliver cloud computing capabilities.
+Ans. Cloud computing architecture refers to the structural framework of a cloud computing system, 
+including the components, layers, and relationships among them. It outlines how various elements such as hardware,software, networking, and services interact to deliver cloud computing capabilities.
 
-
-
- 
 
 Q7.Write short notes on the following: 
 a)Community Cloud:
@@ -118,13 +120,11 @@ A community cloud is a specific deployment model in cloud computing where cloud 
 3.	Cost sharing
 4.	Security and Compliance
 5.	Collaboration 
-
 Examples: Healthcare Community Clouds, Government Community Clouds, Financial Services Community Clouds. 
+
 b) Idaas: Identity as a Service (IDaaS) is a cloud-based identity and access management (IAM) solution that provides organizations with the tools and services needed to manage user identities, authentication, and authorization in the cloud. Here are some key points about IDaaS.
 1.	Identity Management
 2.	Authentication and Single Sign-On (SSO)
-
-
 3.	Authorization and Access Control
 4.	Security and Compliance
 5.	Cost-Efficiency
