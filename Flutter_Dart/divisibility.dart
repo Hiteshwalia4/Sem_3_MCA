@@ -9,7 +9,7 @@ bool divby2(int n){
 
 int sum_of_digits(int x){
   int res=0;
-  int n=x;
+  // int n=x;
   while(x>0) {
     int i=x%10;
     res+=i;
