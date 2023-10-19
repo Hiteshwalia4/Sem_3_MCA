@@ -1,17 +1,3 @@
-Q1.Define cloud Computing and its benefits ?
-
-Ans. Cloud computing is a technology paradigm that involves delivering various computing services, such as storage, 
-processing power, databases, networking, and software applications, over the internet. 
-Instead of relying on local servers or personal computers to handle these tasks, cloud computing enables users to access
-and utilize these resources from remote data centers maintained by cloud service providers.
-
-Here are some key benefits of cloud computing:
-1.	Cost Efficiency: Cloud computing eliminates the need for organizations to invest in and maintain costly hardware and infrastructure. Instead, they can pay for the resources they use on a pay-as-you-go basis, reducing upfront capital expenses.
-2.	Scalability: Cloud services can be easily scaled up or down to meet changing business requirements. This flexibility allows organizations to respond quickly to increased demand or scale back during periods of reduced activity, all without the need for significant hardware changes.
-3.	Accessibility: Cloud services are accessible from anywhere with an internet connection, enabling remote work, collaboration, and access to data and applications from various devices, including smartphones and tablets.
-4.	Security: Cloud providers invest heavily in security measures, including data encryption, identity and access management, and threat detection. Many organizations find that cloud providers can offer higher levels of security than they could achieve on their own.
-5.	Global Reach: Cloud providers have data centers around the world, which allows organizations to easily expand their operations to new regions without the need to set up physical infrastructure in each location.
- 
 
 Q2.What are the cloud computing characteristics ? 
 Ans. Cloud computing is characterized by several key attributes that distinguish it from traditional computing models.
