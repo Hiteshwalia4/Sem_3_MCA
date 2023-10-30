@@ -14,9 +14,9 @@ Widget build(BuildContext context){
         child: Column(
           children: [
             Text(msg,style:TextStyle(fontSize:20)),
-            // ElevatedButton(onPressed: (){
-            //   Navigator.push(context, MaterialPageRoute(builder: (context)=>MyAppGet()))
-            // }, child: Text("Image Page"),),
+            ElevatedButton(onPressed: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context)=>MyAppGet()))
+            }, child: Text("Image Page"),),
             ElevatedButton(onPressed: (){
               Navigator.pop(context);}, child: Text("Go Back"),)
           ],
