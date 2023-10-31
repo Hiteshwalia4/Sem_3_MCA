@@ -1,3 +1,5 @@
+// String Matching Pattern ALgorithm (Knuth Morris Pratt algo )
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
