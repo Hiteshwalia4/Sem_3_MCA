@@ -1,3 +1,11 @@
+// This code creates a Flutter app with a button when pressed, animates the growth and shrinkage of a container with an 
+// amber-colored background.
+// The container's size change is controlled by the _height and _width variables in response to button presses.
+
+// The _increaseWidth() function is called when the "Tap To Grow" button is pressed. 
+// It uses the setState() method to update the _height and _width variables,
+// causing the container to grow if it's not at its maximum size or shrink if it is.
+
 import 'package:flutter/material.dart';
 
 void main() {
